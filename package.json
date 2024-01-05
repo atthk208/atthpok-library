@@ -6,6 +6,7 @@
     "build": "tsc",
     "start": "node dist/app.js"
   },
+  "main": "index.js",
   "keywords": [
     "atthpok-library"
   ],
