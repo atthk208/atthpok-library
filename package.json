@@ -1,0 +1,26 @@
+{
+  "name": "@atthk208/atthpok-library",
+  "version": "1.0.0",
+  "description": "The library for use atthapok code only",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atthk208/atthpok-library.git"
+  },
+  "keywords": [
+    "atthpok-library"
+  ],
+  "author": "Atthpok Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atthk208/atthpok-library/issues"
+  },
+  "homepage": "https://github.com/atthk208/atthpok-library#readme",
+  "devDependencies": {
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
+  }
+}
