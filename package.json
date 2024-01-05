@@ -1,14 +1,10 @@
 {
-  "name": "@atthk208/atthpok-library",
+  "name": "@atthapok/atthpok-library",
   "version": "1.0.0",
   "description": "The library for use atthapok code only",
   "scripts": {
     "build": "tsc",
     "start": "node dist/app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/atthk208/atthpok-library.git"
   },
   "keywords": [
     "atthpok-library"
